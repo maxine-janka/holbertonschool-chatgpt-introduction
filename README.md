@@ -1,0 +1,1 @@
+This projects contains tasks for ChatGPT - Introduction. For Holberton School Australia. By Maxine Janka
