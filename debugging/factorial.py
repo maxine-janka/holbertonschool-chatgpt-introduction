@@ -15,7 +15,7 @@ if len(sys.argv) > 1:
             print("Factorial is not defined for negative numbers.")
         else:
             f = factorial(number)
-            print(f"The factorial of {number} is {f}")
+            print(f)
     except ValueError:
         print("Please provide a valid integer.")
 else:
